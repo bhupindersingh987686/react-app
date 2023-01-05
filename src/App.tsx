@@ -20,7 +20,7 @@ function App (): JSX.Element {
             target="_blank"
             rel="noopener noreferrer"
           >
-            React
+            Reacts
           </a>
           <span>, </span>
           <a
